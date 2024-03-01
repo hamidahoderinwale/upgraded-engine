@@ -1,0 +1,22 @@
+.App {
+  padding: 5% 12%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  cursor: crosshair;
+}
+
+.smallerfont {
+  font-size: 1em;
+}
+
+.wrap-around {
+  overflow: hidden; /* Clear float */
+}
+
+img {
+  float: left; /* Float the image to the left */
+  margin-right: 15px; /* Adjust margin as needed */
+  max-width: 50%; 
+  padding: 15px;
+}
+
